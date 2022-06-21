@@ -26,6 +26,7 @@
 - Display block vs inline
 
 
-![maratonaExplorer](https://user-images.githubusercontent.com/82118386/174825940-b3970180-076a-47e0-a4a9-6755778c8fc1.png)
+
+![maratonaExplorer](https://user-images.githubusercontent.com/82118386/174826397-07c2092f-c9e8-402c-8027-d9f9f7bac112.png)
 
 
