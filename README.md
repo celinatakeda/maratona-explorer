@@ -25,6 +25,7 @@
 - Box Model
 - Display block vs inline
 
-![maratonaExplorer](https://user-images.githubusercontent.com/82118386/174825697-a2d1005b-da16-4ce6-aec4-502496fb0569.png)
+
+![maratonaExplorer](https://user-images.githubusercontent.com/82118386/174825940-b3970180-076a-47e0-a4a9-6755778c8fc1.png)
 
 
