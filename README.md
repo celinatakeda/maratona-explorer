@@ -3,7 +3,7 @@ Projeto simples de adivinhação.
 
 ![maratonaExplorer](https://user-images.githubusercontent.com/82118386/174826397-07c2092f-c9e8-402c-8027-d9f9f7bac112.png)
 
-##HTML
+## HTML
 -  HyperText Markup Language
 
 - Hiper Texto?
