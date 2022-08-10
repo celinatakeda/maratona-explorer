@@ -2,10 +2,11 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box; 
 }
 
 body {
-  background-color: #FFEDD5;
+  background-color: #FFEDD5;  
 }
 
 ul {
