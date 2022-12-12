@@ -110,7 +110,7 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 sinal de menor, nome da tag, sinal de maior, conteúdo, sinal de menor, barra, nome da tag, sinal de maior
 
 ```html
-<p>conteúdo</p>
+  <p>conteúdo</p>
 ```
 
 ---
@@ -124,7 +124,7 @@ sinal de menor, nome da tag, sinal de maior, conteúdo, sinal de menor, barra, n
   nome do atributo, sinal de igual, aspas duplas (abre), valor, aspas duplas (fecha)
 
 ```html
-<a href="#">link</a>
+  <a href="#">link</a>
 ```
 
 ---
@@ -138,17 +138,16 @@ sinal de menor, nome da tag, sinal de maior, conteúdo, sinal de menor, barra, n
 - Somente acessível por quem coda
 
 ```html
-<!-- Aqui vem um comentário -->
-<!--
-Várias linhas de código 
-poderão ser ignoradas 
-ao utilizar comentário
--->
-```
+  <!-- Aqui vem um comentário -->
+  <!--
+  Várias linhas de código 
+  poderão ser ignoradas 
+  ao utilizar comentário
+  -->
 ```
 
 ## O que é CSS?
-
+```
 - Apresentação visual para o cliente
 
 - Estilos para o HTML
@@ -158,9 +157,9 @@ ao utilizar comentário
 Folha de Estilo em Cascata
 
 ---
-
+```
 ## Declaration
-
+```
 - Declaração
 
   Pedaço de código que irá ditar as propriedades e valores a serem 
@@ -172,9 +171,9 @@ aplicadas a um elemento HTML
 chave (fecha)
 
 ```css
-body {
-  background: red;
-}
+  body {
+    background: red;
+  }
 ```
 
 ---
@@ -204,13 +203,13 @@ dessa forma
   Quando há 2 (ou mais) declarações a última será mais relevante
 
 ```css
-body {
-  background: red;
-}
+  body {
+    background: red;
+  }
 
-body {
-  background: blue;
-}
+  body {
+    background: blue;
+  }
 ```
 
 ---
@@ -222,17 +221,17 @@ em conta para que determinada declaração seja mais específica
 
 
 ```css
-#id {
-  /* peso 100 */
-}
+  #id {
+    /* peso 100 */
+  }
 
-.class {
-  /* peso 10 */
-}
+  .class {
+    /* peso 10 */
+  }
 
-element {
-  /* peso 1 */
-}
+  element {
+    /* peso 1 */
+  }
 ```
 
 > A cascata perde prioridade e é priorizada a especificidade da declaração
