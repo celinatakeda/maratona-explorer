@@ -2,7 +2,7 @@
 Projeto simples de adivinhação.
 
 <p align="center">
-  <img src=".github/maratonaExplorer.png" width=300>
+  <img src=".github/maratonaExplorer.png" width=400>
 </p>
 
 ## HTML
