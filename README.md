@@ -1,10 +1,11 @@
-## Fundamentos  da programação
+# Fundamentos da programação
+Aulas iniciais de programação na Rocketseat.
 
-```markdown
 ## O que é programação?
+```markdown
 
 Programação nada mais é do que ensinar o computador
-
+```
 ---
 ## Ensinar o computador
 
@@ -19,7 +20,7 @@ Programação nada mais é do que ensinar o computador
 - Sintaxe
 
   Maneira correta de escrever
-```
+
 
 ## Front-end e Back-end
 
