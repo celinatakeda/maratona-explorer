@@ -20,7 +20,8 @@ Programação nada mais é do que ensinar o computador
 - Sintaxe
 
   Maneira correta de escrever
-
+---  
+```
 
 ## Front-end e Back-end
 
