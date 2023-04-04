@@ -46,7 +46,7 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
   Cliente faz o pedido e Servidor escuta e responde ao pedido.
 
 - Cliente é o front-end, servidor é o back-end
-
+```
 ---
 ## Tecnologias Front-end
 
