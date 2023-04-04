@@ -21,7 +21,6 @@ Programação nada mais é do que ensinar o computador
 
   Maneira correta de escrever
 ---  
-```
 
 ## Front-end e Back-end
 
