@@ -49,7 +49,7 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 ```
 ---
 ## Tecnologias Front-end
-
+```
 - HTML
 
   Linguagem de marcação de texto para estrutura os textos, criar links, imagens, etc...
