@@ -61,7 +61,7 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 - JavaScript
 
   Linguagem de programação que funciona no Navegador
-
+```
 ---
 ## Tecnologias Back-end
 
