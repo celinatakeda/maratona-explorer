@@ -73,6 +73,7 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 
   Banco de dados para proteger os dados do seu programa
 ```
+---
 
 ## HTML
 
@@ -126,7 +127,6 @@ sinal de menor, nome da tag, sinal de maior, conteúdo, sinal de menor, barra, n
 ```html
   <a href="#">link</a>
 ```
-
 ---
 
 ## Comentários
