@@ -29,7 +29,7 @@ Programação nada mais é do que ensinar o computador
 Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 ```
 ---
-## Cliente x Servidor
+### Cliente x Servidor
 ```
 - Cliente
 
