@@ -64,7 +64,7 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 ```
 ---
 ## Tecnologias Back-end
-
+```
 - NodeJS
 
   Rodar o JavaScript no computador
