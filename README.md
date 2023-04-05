@@ -23,11 +23,9 @@ Programação nada mais é do que ensinar o computador
 ---  
 
 ## Front-end e Back-end
+### É uma comunicação
 
 ```markdown
-
-## É uma comunicação
-
 Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 
 ---
