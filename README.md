@@ -27,10 +27,10 @@ Programação nada mais é do que ensinar o computador
 
 ```markdown
 Imagina uma farmácia onde você vai pedir um remédio para o atendimento
-
+```
 ---
 ## Cliente x Servidor
-
+```
 - Cliente
 
   Navegador (browser)
