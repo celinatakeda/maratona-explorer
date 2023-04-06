@@ -74,24 +74,24 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 ---
 
 ## HTML
+## O que é HTML?
 
 ```markdown
-## O que é HTML?
 
 - Estruturar textos, criar links, imagens, vídeo, etc ...
 
 - Hypertext Markup Language
 
   Linguagem de marcação de texto
-
+```
 ---
 
 ## Hypertext
-
+```
 - Hiper texto
 
 - Texto que contém links
-
+```
 ---
 
 ## Markup
