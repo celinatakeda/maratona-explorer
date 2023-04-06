@@ -84,7 +84,6 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 
   Linguagem de marcação de texto
 ```
----
 
 ### Hypertext
 ```
@@ -92,16 +91,15 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 
 - Texto que contém links
 ```
----
 
 ### Markup
-
+```
 - Marcação do texto
 
 - Elemento HTML ou tag
 
   Existem inúmeras tags e cada uma deles irá servir para um determinado propósito. Ex.: imagem, texto grande, link, parágrafo, etc...
-
+```
 ---
 
 ## Sintaxe de uma tag
