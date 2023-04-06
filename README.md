@@ -74,7 +74,7 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 ---
 
 ## HTML
-## O que é HTML?
+### O que é HTML?
 
 ```markdown
 
@@ -86,7 +86,7 @@ Imagina uma farmácia onde você vai pedir um remédio para o atendimento
 ```
 ---
 
-## Hypertext
+### Hypertext
 ```
 - Hiper texto
 
